@@ -1,0 +1,15 @@
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\bin\Debug\net7.0\ISM6225_Spring_2024_Assignment.exe
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\bin\Debug\net7.0\ISM6225_Spring_2024_Assignment.deps.json
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\bin\Debug\net7.0\ISM6225_Spring_2024_Assignment.runtimeconfig.json
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\bin\Debug\net7.0\ISM6225_Spring_2024_Assignment.dll
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\bin\Debug\net7.0\ISM6225_Spring_2024_Assignment.pdb
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.AssemblyInfoInputs.cache
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.AssemblyInfo.cs
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.sourcelink.json
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.dll
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\refint\ISM6225_Spring_2024_Assignment.dll
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.pdb
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ISM6225_Spring_2024_Assignment.genruntimeconfig.cache
+C:\Users\bannu\source\repos\ISM6225_Spring_2024_Assignment\ISM6225_Spring_2024_Assignment\obj\Debug\net7.0\ref\ISM6225_Spring_2024_Assignment.dll
